@@ -5,22 +5,22 @@ class Homehash < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/gregweir/homeHash/releases/download/v0.3.0/homeHash_0.3.0_darwin_arm64.tar.gz"
-      sha256 "50e2390eaae998535987857286f35e45bd3cfe518650a449ec439d7241253048"
+      url "https://github.com/gregweir/homeHash/releases/download/v0.4.0/homeHash_0.4.0_darwin_arm64.tar.gz"
+      sha256 "3e3b1f32e80d8d39b2b179c218275e737013fb6ae2ed251d56e820b01db3cb6c"
     end
     on_intel do
-      url "https://github.com/gregweir/homeHash/releases/download/v0.3.0/homeHash_0.3.0_darwin_amd64.tar.gz"
-      sha256 "fac7f05e2eac0303d4184aa890eeb23fdf35140dd173a093d9b2933d6710101b"
+      url "https://github.com/gregweir/homeHash/releases/download/v0.4.0/homeHash_0.4.0_darwin_amd64.tar.gz"
+      sha256 "01371287274f1fa7b7115497f2240886d91e940afefcc6d809992b48184363a1"
     end
   end
   on_linux do
     on_arm do
-      url "https://github.com/gregweir/homeHash/releases/download/v0.3.0/homeHash_0.3.0_linux_arm64.tar.gz"
-      sha256 "e8b0016aa0edd058ae852f74169c1a3b9c5401a03a9a67d43890b18aa06d3efd"
+      url "https://github.com/gregweir/homeHash/releases/download/v0.4.0/homeHash_0.4.0_linux_arm64.tar.gz"
+      sha256 "6d59d4113b1a702e17a59614c0483ac4870789074bd83e73106804d3d078c068"
     end
     on_intel do
-      url "https://github.com/gregweir/homeHash/releases/download/v0.3.0/homeHash_0.3.0_linux_amd64.tar.gz"
-      sha256 "b4a502a8ee1001a50e1187b55a684e19260a369b598d3005210257220534f40b"
+      url "https://github.com/gregweir/homeHash/releases/download/v0.4.0/homeHash_0.4.0_linux_amd64.tar.gz"
+      sha256 "55c5fba19669fbc2e630470e13cb931cef38d972ff33b6057795baca89c9d481"
     end
   end
 
